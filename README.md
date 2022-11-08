@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://instagram.com/alifrmnsyhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alifrmnsyhh" height="30" width="40" /></a>
 </p>
-<img align="right" alt="Coding" width"400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+<img align="right" alt="Coding" width"200" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 
 <h3 align="left">Languages and Tools:</h3>
