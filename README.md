@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently learning **Flutter, Framework, Backend**
 
-- 💬 Ask me about **Flutter, Dart**
 
 - 📫 How to reach me **alifirmansyah41462.af@gmail.com**
 
